@@ -1,2 +1,0 @@
-# PORTFOLIO
-All project work 
